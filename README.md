@@ -1,1 +1,1 @@
-# -t-slotto
+# Ötöslotto project
