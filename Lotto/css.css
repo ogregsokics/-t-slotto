@@ -1,0 +1,30 @@
+            body{
+                font-size: 100%;
+                font-weight: bold;
+                font-family: serif;
+                background-color: #0f0f28;
+            
+            } 
+             td, table, tbody{ 
+                font-size: 1.2em;
+                border: 1px solid black;
+                text-align:center;
+                color: white;
+             }
+             
+             h1{
+                text-align:center;
+                color: white;
+             }
+             
+             #table3 td{
+                 color: black;
+             }
+             
+             .btn{
+                 font-size: 2.5em;
+             }
+             #percent{
+                 font-size: 1.5em;
+                 color: white    
+             }
