@@ -1,1 +1,1 @@
-# Ötöslotto project
+# ÖtöslottÓ project
